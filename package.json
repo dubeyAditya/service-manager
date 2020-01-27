@@ -1,0 +1,14 @@
+{
+	"name": "service-manager",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"start": "node main.js"
+	},
+	"keywords": [],
+	"license": "MIT",
+	"bin": {
+		"sctrl": "main.js"
+	}
+}
